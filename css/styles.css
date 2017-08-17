@@ -1,0 +1,23 @@
+.jumbotron {
+  text-align: center;
+  background-color: DarkSlateGrey;
+  color: white;
+}
+#result {
+  display: none;
+  padding-top: 20px;
+  color: Orange;
+  font-size: 2em;
+}
+.not {
+  display: none;
+}
+.equilateral {
+  display: none;
+}
+.isosceles {
+  display: none;
+}
+.scalene {
+  display: none;
+}
